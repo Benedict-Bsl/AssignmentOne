@@ -1,0 +1,36 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Second Application Theme. -->
+    <style name="SecondTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorThird</item>
+        <item name="colorPrimaryDark">@color/colorThirdA</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Third Application Theme. -->
+    <style name="ThirdTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorFourth</item>
+        <item name="colorPrimaryDark">@color/colorFourthB</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="FourthTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorFith</item>
+        <item name="colorPrimaryDark">@color/colorFithC</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+
+</resources>
